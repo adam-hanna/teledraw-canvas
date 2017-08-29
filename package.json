@@ -33,5 +33,8 @@
   "bugs": {
     "url": "https://github.com/lakenen/teledraw-canvas/issues"
   },
-  "homepage": "https://github.com/lakenen/teledraw-canvas"
+  "homepage": "https://github.com/lakenen/teledraw-canvas",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
